@@ -1,0 +1,31 @@
+# Training outputs
+checkpoints/
+results/
+*_log_*.txt
+
+# Data
+split/
+dataset/
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+
+# Model weights
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
